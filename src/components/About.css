@@ -1,0 +1,33 @@
+.About {
+    display: flex;
+    justify-content: space-around;
+    background: #a1c6ea;
+    padding: 60px;
+}
+
+.container {
+    padding: 30px;
+
+}
+
+.container h1 {
+    text-align: center;
+    color: #5b5bc7;
+}
+.container h2{
+    text-align: center;
+}
+
+.container button {
+    border-radius: 10px;
+    background: #5b5bc7;
+    color: white;
+    padding: 10px;
+    margin-left: 250px;
+    border: none;
+    font-size: bold;
+}
+button:hover{
+    color: #5b5bc7;
+    background: white;
+}
